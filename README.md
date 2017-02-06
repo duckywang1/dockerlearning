@@ -1,9 +1,8 @@
-# dockerlearning
-测试一下
+# 关于docker学习
 
 个人布置 node 使用。基于 阿里云 Ubuntu 14.04 镜像。
 
-## 把 Ubuntu apt 改为 阿里源。并且更新包  
+## 把 Ubuntu 内核升级。并且更新包  
 ```
 sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install -y --install-recommends linux-generic-lts-xenial
